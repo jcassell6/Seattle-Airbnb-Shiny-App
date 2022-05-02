@@ -13,7 +13,7 @@ If you wish to run the app from R Studio instead of going to the above link, you
 
 1. Download all items in the Seattle_Airbnb folder
 2. Open seattle_airbnb.Rproj in R Studio
-3. Make sure both Airbnb5122.csv and listig.csv stay within the 'data' folder
+3. Make sure both Airbnb.csv and Listing.csv stay within the 'data' folder
 4. Open app.R
 5. Click "Run App" in the upper right corner of the code panel
 6. (optional) Click "Open in Browser" in the upper left corner of the app window if you wish to view in browser
