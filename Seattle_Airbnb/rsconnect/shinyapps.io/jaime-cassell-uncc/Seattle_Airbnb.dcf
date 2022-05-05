@@ -1,0 +1,13 @@
+name: Seattle_Airbnb
+title: Seattle_Airbnb
+username:
+account: jaime-cassell-uncc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6216318
+bundleId: 5866092
+url: https://jaime-cassell-uncc.shinyapps.io/Seattle_Airbnb/
+when: 1651608371.64644
+lastSyncTime: 1651608371.64644
+asMultiple: FALSE
+asStatic: FALSE
