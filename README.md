@@ -4,7 +4,7 @@ Shiny App created from the Seattle Airbnb data to visualize various components i
 
 Created as a result of Chase Romano's Visual Analytics course in the Data Science and Business Analytics master's program at the University of North Carolina Charlotte, this Shiny application investigates Seattle Airbnb listings (data web-scraped in 2016).
 
-You can access the app [here]( https://jaime-cassell-uncc.shinyapps.io/Seattle_Airbnb/)
+You can access the app [here](https://jaime-cassell-uncc.shinyapps.io/Seattle_Airbnb/)
 
 - - - -
 
